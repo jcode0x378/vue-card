@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Vue 是什麼？",
+    "answer": "Vue 是一個漸進式框架，用於構建用戶界面。",
+    "category": "Vue",
+    "id": 1
+  },
+  {
+    "question": "Vue3 有什麼新特性？",
+    "answer": "Vue3 引入了 Composition API、Teleport、Fragments 等新特性。",
+    "category": "Vue3",
+    "id": 2
+  }
+]
